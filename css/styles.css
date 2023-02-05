@@ -1,4 +1,11 @@
+body{
+    background-color: rgb(196, 227, 216);
+}
 #myprofilepic{
     height: 100px;
     width: 75px;
+}
+.hobbies{
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
