@@ -6,12 +6,15 @@ body{
     width: 75px;
     float: left;
     padding-right: 50px;
+    
 }
 .intro{
     padding-bottom: 50px;
+    border-bottom: 2px solid green;
 }
 .projectsection{
     padding-top: 150px;
+    border-bottom: 2px solid green;
 }
 .hobbies{
     font-weight: 200;
