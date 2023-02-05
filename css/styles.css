@@ -4,6 +4,14 @@ body{
 #myprofilepic{
     height: 100px;
     width: 75px;
+    float: left;
+    padding-right: 50px;
+}
+.intro{
+    padding-bottom: 50px;
+}
+.projectsection{
+    padding-top: 150px;
 }
 .hobbies{
     font-weight: 200;
